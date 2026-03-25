@@ -109,11 +109,11 @@ This workshop is designed for:
 | Field | Details |
 |---|---|
 | **Event** | Intel DevMeet 1.0 Nagpur |
-| **Organizer** | *(Organizer name / organization placeholder)* |
+| **Organizer** | Intel OpenVINO |
 | **Speaker / Instructor** | Mr. Nitin Mane |
-| **Contact** | *(Contact email / social links placeholder)* |
-| **Venue** | *(Venue details placeholder)* |
-| **Date** | *(Event date placeholder)* |
+| **Contact** | nitinmane@ieee.org |
+| **Venue** | St. Vincent Pallotti College of Engineering and Technology, Nagpur |
+| **Date** | 28th March 2026 |
 
 ---
 
