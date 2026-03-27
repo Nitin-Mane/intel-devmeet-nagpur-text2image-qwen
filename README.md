@@ -1,13 +1,13 @@
-# Intel DevMeet 1.0 Nagpur — Text to Image Generation with Qwen using OpenVINO
+# Intel DevMeet 1.0 Nagpur — Text to Image Generation with Stable Diffusion using OpenVINO
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nitin-Mane/intel-devmeet-nagpur-text2image-qwen/blob/main/notebooks/02_Text_to_Image_Generation_with_Qwen_OpenVINO.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nitin-Mane/intel-devmeet-nagpur-text2image-qwen/blob/main/notebooks/02_stable-diffusion-text-to-image.ipynb)
 
 ---
 
 ## 🧠 Workshop Overview
 
-This repository contains all the materials for the **Intel DevMeet 1.0 Nagpur** workshop focused on **Text-to-Image Generation** using the **Qwen-Image** model accelerated with **Intel OpenVINO**. The workshop bridges the gap between generative AI and efficient AI deployment, guiding participants from foundational concepts to a hands-on working pipeline.
+This repository contains all the materials for the **Intel DevMeet 1.0 Nagpur** workshop focused on **Text-to-Image Generation** using the **Stable Diffusion** model accelerated with **Intel OpenVINO**. The workshop bridges the gap between generative AI and efficient AI deployment, guiding participants from foundational concepts to a hands-on working pipeline.
 
 The notebooks are designed to be run on **Google Colab**, making it easy for anyone to participate without requiring a local GPU or complex environment setup.
 
@@ -20,7 +20,7 @@ By the end of this workshop, participants will be able to:
 1. Understand the Intel OpenVINO Toolkit and its role in AI inference optimization.
 2. Convert pre-trained deep learning models to the OpenVINO Intermediate Representation (IR) format.
 3. Run optimized inference using the OpenVINO runtime.
-4. Build a complete Text-to-Image generation pipeline using the Qwen-Image model.
+4. Build a complete Text-to-Image generation pipeline using the Stable Diffusion model.
 5. Experiment with generative prompts and analyze model outputs.
 
 ---
@@ -32,7 +32,7 @@ intel-devmeet-nagpur-text2image-qwen/
 │
 ├── notebooks/
 │   ├── 01_Introduction_to_OpenVINO.ipynb          # OpenVINO basics & model optimization
-│   └── 02_Text_to_Image_Generation_with_Qwen_OpenVINO.ipynb  # Hands-on Qwen + OpenVINO pipeline
+│   └── 02_stable-diffusion-text-to-image.ipynb  # Hands-on Stable Diffusion + OpenVINO pipeline
 │
 ├── PPT/                                            # Workshop presentation slides (to be added)
 │
@@ -56,9 +56,9 @@ intel-devmeet-nagpur-text2image-qwen/
 
 ### ☕ Break
 
-### Session 3 — Hands-on Workshop: Text-to-Image Generation with Qwen using OpenVINO
+### Session 3 — Hands-on Workshop: Text-to-Image Generation with Stable Diffusion using OpenVINO
 - Generative AI pipeline overview
-- Integrating the Qwen-Image model with OpenVINO
+- Integrating the Stable Diffusion Image model with OpenVINO
 - Running optimized inference end-to-end
 - Experimentation with prompts and analyzing outputs
 
